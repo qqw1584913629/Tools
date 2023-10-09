@@ -1,0 +1,7 @@
+{
+    "secret_id":"",
+    "secret_key":"",
+    "region":"",
+    "bucket":"",
+    "cos_path":"" 
+}
